@@ -1,0 +1,2592 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/utils/autoreload.py" line="614" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d3044443-8ebc-456a-9a5a-241875ea8add" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/login_register_master$alex__1_.coverage" NAME="alex (1) Coverage Results" MODIFIED="1572278590480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/one" />
+    <SUITE FILE_PATH="coverage/login_register_master$wangan.coverage" NAME="wangan Coverage Results" MODIFIED="1574434571343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/login/luoji/argparse_test" />
+    <SUITE FILE_PATH="coverage/login_register_master$order.coverage" NAME="order Coverage Results" MODIFIED="1573923236970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/login/luoji" />
+    <SUITE FILE_PATH="coverage/login_register_master$funtools_Demo.coverage" NAME="funtools_Demo Coverage Results" MODIFIED="1574006724078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/login/luoji" />
+    <SUITE FILE_PATH="coverage/login_register_master$wei.coverage" NAME="wei Coverage Results" MODIFIED="1574355888368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/login/luoji" />
+    <SUITE FILE_PATH="coverage/login_register_master$alex.coverage" NAME="alex Coverage Results" MODIFIED="1572179710724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/one/two/three" />
+    <SUITE FILE_PATH="coverage/login_register_master$shiwei.coverage" NAME="shiwei Coverage Results" MODIFIED="1573917410817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/login/luoji" />
+    <SUITE FILE_PATH="coverage/login_register_master$counter_Demo.coverage" NAME="counter_Demo Coverage Results" MODIFIED="1573924672304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/login/luoji" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="663222596">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="15" />
+          <entry key="project.open.time.100" value="1" />
+          <entry key="project.open.time.41" value="1" />
+          <entry key="project.open.time.42" value="1" />
+          <entry key="project.open.time.44" value="1" />
+          <entry key="project.open.time.45" value="1" />
+          <entry key="project.open.time.46" value="1" />
+          <entry key="project.open.time.47" value="1" />
+          <entry key="project.open.time.48" value="1" />
+          <entry key="project.open.time.49" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.50" value="2" />
+          <entry key="project.open.time.56" value="1" />
+          <entry key="project.open.time.69" value="1" />
+          <entry key="project.open.time.73" value="1" />
+          <entry key="project.opened" value="15" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="LICENSE" value="1" />
+          <entry key="md" value="1" />
+          <entry key="py" value="398" />
+          <entry key="pyi" value="3" />
+          <entry key="txt" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Markdown" value="1" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="Python" value="398" />
+          <entry key="PythonStub" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Django Console" value="1367" />
+          <entry key="py" value="13221" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="14588" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/core/wsgi.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/core/handlers/wsgi.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="132" column="17" selection-start-line="132" selection-start-column="6" selection-end-line="132" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/core/handlers/base.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="65" column="24" selection-start-line="65" selection-start-column="8" selection-end-line="65" selection-end-column="24" />
+              <folding>
+                <element signature="e#671#2387#0" />
+                <element signature="e#1270#1539#0" />
+                <element signature="e#1593#1715#0" />
+                <element signature="e#2435#2714#0" />
+                <element signature="e#2761#3257#0" />
+                <element signature="e#3305#6058#0" />
+                <element signature="e#6135#6472#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/contrib/sessions/middleware.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="13" column="40" lean-forward="true" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/core/management/commands/runserver.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="214">
+              <caret line="156" column="12" lean-forward="true" selection-start-line="156" selection-start-column="12" selection-end-line="156" selection-end-column="12" />
+              <folding>
+                <element signature="e#0#12#0" expanded="true" />
+                <element signature="e#360#581#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/core/servers/basehttp.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="213" column="56" selection-start-line="213" selection-start-column="38" selection-end-line="213" selection-end-column="56" />
+              <folding>
+                <element signature="e#1624#1777#0" />
+                <element signature="e#4575#5507#0" />
+                <element signature="e#5544#5963#0" />
+                <element signature="e#5995#6266#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://D:/SystemInstallFiles/python_msi/python_3.7.4/Lib/wsgiref/simple_server.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="74" column="26" lean-forward="true" selection-start-line="74" selection-start-column="26" selection-end-line="74" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#551#1" />
+                <element signature="e#1037#1282#0" />
+                <element signature="e#1102#1282#0" />
+                <element signature="e#1119#1227#0" />
+                <element signature="e#1321#2030#0" />
+                <element signature="e#1443#1561#0" />
+                <element signature="e#1600#1899#0" />
+                <element signature="e#1932#1955#0" />
+                <element signature="e#2000#2030#0" />
+                <element signature="e#3132#3439#0" />
+                <element signature="e#3494#3511#0" />
+                <element signature="e#3543#4165#0" />
+                <element signature="e#3695#3836#0" />
+                <element signature="e#4211#4536#0" />
+                <element signature="e#4642#4810#0" />
+                <element signature="e#4844#5138#0" />
+                <element signature="e#4899#5138#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://D:/SystemInstallFiles/python_msi/python_3.7.4/Lib/http/server.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-328">
+              <caret line="146" column="64" lean-forward="true" selection-start-line="146" selection-start-column="64" selection-end-line="146" selection-end-column="64" />
+              <folding>
+                <element signature="e#0#1094#1" />
+                <element signature="e#1097#1108#0" />
+                <element signature="e#2993#3120#0" />
+                <element signature="e#3499#3948#0" />
+                <element signature="e#4053#4387#0" />
+                <element signature="e#4161#4387#0" />
+                <element signature="e#4462#4483#0" />
+                <element signature="e#4556#8337#1" />
+                <element signature="e#8464#8526#0" />
+                <element signature="e#8795#8863#0" />
+                <element signature="e#9160#13264#0" />
+                <element signature="e#9160#9494#1" />
+                <element signature="e#9992#11394#0" />
+                <element signature="e#10045#10782#0" />
+                <element signature="e#10261#10318#0" />
+                <element signature="e#10844#10991#0" />
+                <element signature="e#11176#11351#0" />
+                <element signature="e#11445#11583#0" />
+                <element signature="e#11658#11889#0" />
+                <element signature="e#11736#11889#0" />
+                <element signature="e#12031#12162#0" />
+                <element signature="e#12222#12382#0" />
+                <element signature="e#12444#12620#0" />
+                <element signature="e#13183#13244#0" />
+                <element signature="e#13307#13980#0" />
+                <element signature="e#13307#13880#1" />
+                <element signature="e#14024#15416#0" />
+                <element signature="e#14024#14250#1" />
+                <element signature="e#14276#15198#0" />
+                <element signature="e#14392#14577#0" />
+                <element signature="e#14635#14686#0" />
+                <element signature="e#14744#14807#0" />
+                <element signature="e#14906#15055#0" />
+                <element signature="e#15247#15416#0" />
+                <element signature="e#15713#17730#0" />
+                <element signature="e#15713#16338#1" />
+                <element signature="e#16753#16802#0" />
+                <element signature="e#16991#17113#0" />
+                <element signature="e#17129#17623#0" />
+                <element signature="e#17129#17182#0" />
+                <element signature="e#17267#17435#0" />
+                <element signature="e#17789#18182#0" />
+                <element signature="e#17789#17988#1" />
+                <element signature="e#18246#18780#0" />
+                <element signature="e#18342#18780#0" />
+                <element signature="e#18378#18513#0" />
+                <element signature="e#18833#19367#0" />
+                <element signature="e#18940#19142#0" />
+                <element signature="e#19200#19367#0" />
+                <element signature="e#19404#19583#0" />
+                <element signature="e#19514#19583#0" />
+                <element signature="e#19622#19757#0" />
+                <element signature="e#19671#19757#0" />
+                <element signature="e#19814#20073#0" />
+                <element signature="e#19814#19898#1" />
+                <element signature="e#20123#20425#0" />
+                <element signature="e#20123#20384#1" />
+                <element signature="e#20477#21165#0" />
+                <element signature="e#20477#20974#1" />
+                <element signature="e#21048#21163#0" />
+                <element signature="e#21205#21313#0" />
+                <element signature="e#21371#21569#0" />
+                <element signature="e#21615#21887#0" />
+                <element signature="e#21974#22098#0" />
+                <element signature="e#22138#22209#0" />
+                <element signature="e#22215#22251#0" />
+                <element signature="e#22701#32337#0" />
+                <element signature="e#22701#23050#1" />
+                <element signature="e#23167#23301#0" />
+                <element signature="e#23333#23511#0" />
+                <element signature="e#23415#23511#0" />
+                <element signature="e#23544#23636#0" />
+                <element signature="e#23671#27019#0" />
+                <element signature="e#23671#24056#1" />
+                <element signature="e#24164#24946#0" />
+                <element signature="e#24266#24676#0" />
+                <element signature="e#24414#24497#0" />
+                <element signature="e#24745#24879#0" />
+                <element signature="e#24841#24879#0" />
+                <element signature="e#25067#25146#0" />
+                <element signature="e#25173#26963#0" />
+                <element signature="e#25373#26655#0" />
+                <element signature="e#25477#25576#0" />
+                <element signature="e#25672#25723#0" />
+                <element signature="e#25766#26655#0" />
+                <element signature="e#25813#26002#0" />
+                <element signature="e#25813#25852#0" />
+                <element signature="e#26087#26655#0" />
+                <element signature="e#26487#26655#0" />
+                <element signature="e#26992#27019#0" />
+                <element signature="e#27065#29490#0" />
+                <element signature="e#27065#27322#1" />
+                <element signature="e#27408#27537#0" />
+                <element signature="e#27621#27737#0" />
+                <element signature="e#28002#28114#0" />
+                <element signature="e#28168#28254#0" />
+                <element signature="e#28434#29088#0" />
+                <element signature="e#28631#28693#0" />
+                <element signature="e#28751#28854#0" />
+                <element signature="e#28930#29086#0" />
+                <element signature="e#29536#30638#0" />
+                <element signature="e#29536#29783#1" />
+                <element signature="e#30361#30567#0" />
+                <element signature="e#30437#30523#0" />
+                <element signature="e#30692#31242#0" />
+                <element signature="e#30692#31195#1" />
+                <element signature="e#31284#32028#0" />
+                <element signature="e#31284#31733#1" />
+                <element signature="e#32190#32336#0" />
+                <element signature="e#32413#33867#0" />
+                <element signature="e#32413#32879#1" />
+                <element signature="e#33010#33080#0" />
+                <element signature="e#33242#33403#0" />
+                <element signature="e#33431#33645#0" />
+                <element signature="e#33494#33645#0" />
+                <element signature="e#33532#33579#0" />
+                <element signature="e#33908#34221#0" />
+                <element signature="e#34250#34317#0" />
+                <element signature="e#34380#44204#0" />
+                <element signature="e#34380#34559#1" />
+                <element signature="e#34637#34702#0" />
+                <element signature="e#34816#35093#0" />
+                <element signature="e#34816#34904#1" />
+                <element signature="e#34985#35093#0" />
+                <element signature="e#35128#35313#0" />
+                <element signature="e#35345#36214#0" />
+                <element signature="e#35345#35914#1" />
+                <element signature="e#36143#36193#0" />
+                <element signature="e#36306#36393#0" />
+                <element signature="e#36434#36577#0" />
+                <element signature="e#36610#44204#0" />
+                <element signature="e#36777#37057#0" />
+                <element signature="e#36941#37017#0" />
+                <element signature="e#37166#37230#0" />
+                <element signature="e#37587#37716#0" />
+                <element signature="e#37772#37913#0" />
+                <element signature="e#38007#38213#0" />
+                <element signature="e#38062#38213#0" />
+                <element signature="e#38223#38276#0" />
+                <element signature="e#39082#39834#0" />
+                <element signature="e#39176#39834#0" />
+                <element signature="e#39328#39834#0" />
+                <element signature="e#39357#39537#0" />
+                <element signature="e#39676#39834#0" />
+                <element signature="e#40378#40519#0" />
+                <element signature="e#40837#40863#0" />
+                <element signature="e#41000#41115#0" />
+                <element signature="e#41338#42442#0" />
+                <element signature="e#41642#42018#0" />
+                <element signature="e#41845#41901#0" />
+                <element signature="e#42072#42316#0" />
+                <element signature="e#42353#42442#0" />
+                <element signature="e#42470#44204#0" />
+                <element signature="e#42623#42871#0" />
+                <element signature="e#42720#42820#0" />
+                <element signature="e#43733#43791#0" />
+                <element signature="e#44350#44961#0" />
+                <element signature="e#44350#44465#1" />
+                <element signature="e#44615#44961#0" />
+                <element signature="e#44889#44961#0" />
+                <element signature="e#44994#46018#0" />
+                <element signature="e#45253#45343#0" />
+                <element signature="e#45440#45526#0" />
+                <element signature="e#45842#45949#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://D:/SystemInstallFiles/python_msi/python_3.7.4/Lib/socketserver.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="745" column="6" selection-start-line="745" selection-start-column="6" selection-end-line="745" selection-end-column="6" />
+              <folding>
+                <element signature="e#0#4982#1" />
+                <element signature="e#5215#5422#0" />
+                <element signature="e#5558#5715#0" />
+                <element signature="e#5573#5714#0" />
+                <element signature="e#5717#5793#0" />
+                <element signature="e#6024#13538#0" />
+                <element signature="e#6024#6982#1" />
+                <element signature="e#7073#7314#0" />
+                <element signature="e#7355#7457#0" />
+                <element signature="e#7355#7444#1" />
+                <element signature="e#7515#8763#0" />
+                <element signature="e#7515#7730#1" />
+                <element signature="e#7792#8664#0" />
+                <element signature="e#7792#7858#0" />
+                <element signature="e#8101#8664#0" />
+                <element signature="e#8268#8664#0" />
+                <element signature="e#8328#8370#0" />
+                <element signature="e#8694#8763#0" />
+                <element signature="e#8797#9069#0" />
+                <element signature="e#8797#8995#1" />
+                <element signature="e#9110#9290#0" />
+                <element signature="e#9110#9277#1" />
+                <element signature="e#9296#9367#0" />
+                <element signature="e#9912#11002#0" />
+                <element signature="e#9912#9997#1" />
+                <element signature="e#10006#10061#0" />
+                <element signature="e#10397#10464#0" />
+                <element signature="e#10584#11002#0" />
+                <element signature="e#10671#11002#0" />
+                <element signature="e#10830#11002#0" />
+                <element signature="e#10878#11002#0" />
+                <element signature="e#11051#11822#0" />
+                <element signature="e#11051#11291#1" />
+                <element signature="e#11474#11765#0" />
+                <element signature="e#11587#11676#0" />
+                <element signature="e#11713#11765#0" />
+                <element signature="e#11862#11980#0" />
+                <element signature="e#11862#11967#1" />
+                <element signature="e#12045#12181#0" />
+                <element signature="e#12045#12161#1" />
+                <element signature="e#12247#12431#0" />
+                <element signature="e#12247#12339#1" />
+                <element signature="e#12469#12556#0" />
+                <element signature="e#12469#12543#1" />
+                <element signature="e#12621#12747#0" />
+                <element signature="e#12798#12891#0" />
+                <element signature="e#12939#12999#0" />
+                <element signature="e#13062#13432#0" />
+                <element signature="e#13062#13184#1" />
+                <element signature="e#13467#13478#0" />
+                <element signature="e#13519#13538#0" />
+                <element signature="e#13575#16839#0" />
+                <element signature="e#13575#14656#1" />
+                <element signature="e#14887#15321#0" />
+                <element signature="e#15165#15321#0" />
+                <element signature="e#15186#15243#0" />
+                <element signature="e#15280#15321#0" />
+                <element signature="e#15358#15660#0" />
+                <element signature="e#15358#15443#1" />
+                <element signature="e#15701#15842#0" />
+                <element signature="e#15701#15790#1" />
+                <element signature="e#15880#15982#0" />
+                <element signature="e#15880#15954#1" />
+                <element signature="e#16014#16133#0" />
+                <element signature="e#16014#16097#1" />
+                <element signature="e#16170#16301#0" />
+                <element signature="e#16170#16265#1" />
+                <element signature="e#16352#16720#0" />
+                <element signature="e#16435#16603#0" />
+                <element signature="e#16435#16488#0" />
+                <element signature="e#16768#16839#0" />
+                <element signature="e#16875#17439#0" />
+                <element signature="e#17033#17143#0" />
+                <element signature="e#17184#17232#0" />
+                <element signature="e#17283#17350#0" />
+                <element signature="e#17398#17439#0" />
+                <element signature="e#17469#20921#0" />
+                <element signature="e#17497#20921#0" />
+                <element signature="e#17811#19389#0" />
+                <element signature="e#17954#18023#0" />
+                <element signature="e#18472#18787#0" />
+                <element signature="e#18497#18577#0" />
+                <element signature="e#18640#18729#0" />
+                <element signature="e#18902#19389#0" />
+                <element signature="e#18927#19191#0" />
+                <element signature="e#19037#19099#0" />
+                <element signature="e#19254#19332#0" />
+                <element signature="e#19437#19597#0" />
+                <element signature="e#19437#19561#1" />
+                <element signature="e#19646#19845#0" />
+                <element signature="e#19646#19809#1" />
+                <element signature="e#19919#20789#0" />
+                <element signature="e#20035#20262#0" />
+                <element signature="e#20297#20789#0" />
+                <element signature="e#20297#20313#0" />
+                <element signature="e#20442#20517#0" />
+                <element signature="e#20660#20789#0" />
+                <element signature="e#20835#20921#0" />
+                <element signature="e#20950#22481#0" />
+                <element signature="e#21014#21068#0" />
+                <element signature="e#21223#21286#0" />
+                <element signature="e#21444#21764#0" />
+                <element signature="e#21444#21553#1" />
+                <element signature="e#21830#22223#0" />
+                <element signature="e#22109#22205#0" />
+                <element signature="e#22261#22481#0" />
+                <element signature="e#22328#22481#0" />
+                <element signature="e#22425#22481#0" />
+                <element signature="e#22512#22623#0" />
+                <element signature="e#22561#22565#0" />
+                <element signature="e#22619#22623#0" />
+                <element signature="e#22678#22682#0" />
+                <element signature="e#22736#22740#0" />
+                <element signature="e#22778#23092#0" />
+                <element signature="e#22821#22852#0" />
+                <element signature="e#22903#22934#0" />
+                <element signature="e#23007#23011#0" />
+                <element signature="e#23088#23092#0" />
+                <element signature="e#23125#23808#1" />
+                <element signature="e#24184#24252#0" />
+                <element signature="e#24641#24681#0" />
+                <element signature="e#25153#25204#0" />
+                <element signature="e#25504#25615#0" />
+                <element signature="e#26233#26651#0" />
+                <element signature="e#26233#26369#1" />
+                <element signature="e#26409#26426#0" />
+                <element signature="e#26460#26471#0" />
+                <element signature="e#26505#26593#0" />
+                <element signature="e#26625#26651#0" />
+                <element signature="e#26708#27036#0" />
+                <element signature="e#26799#26942#0" />
+                <element signature="e#26974#27036#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/utils/autoreload.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="620" column="24" selection-start-line="620" selection-start-column="21" selection-end-line="620" selection-end-column="24" />
+              <folding>
+                <element signature="e#724#803#0" />
+                <element signature="e#1443#1552#0" />
+                <element signature="e#2535#3766#0" />
+                <element signature="e#2535#2604#0" />
+                <element signature="e#2799#2925#1" />
+                <element signature="e#2931#3008#0" />
+                <element signature="e#3855#5000#0" />
+                <element signature="e#3989#4598#0" />
+                <element signature="e#3989#4060#0" />
+                <element signature="e#4320#4389#0" />
+                <element signature="e#4471#4598#0" />
+                <element signature="e#4694#4970#0" />
+                <element signature="e#4812#4923#0" />
+                <element signature="e#4812#4875#0" />
+                <element signature="e#5064#6137#0" />
+                <element signature="e#5064#5344#1" />
+                <element signature="e#5349#5374#0" />
+                <element signature="e#5676#5875#0" />
+                <element signature="e#5963#6102#0" />
+                <element signature="e#6172#6585#0" />
+                <element signature="e#6172#6268#1" />
+                <element signature="e#6303#6585#0" />
+                <element signature="e#6619#7125#0" />
+                <element signature="e#6619#6800#1" />
+                <element signature="e#6953#7074#0" />
+                <element signature="e#7162#7225#0" />
+                <element signature="e#7261#7501#0" />
+                <element signature="e#7378#7501#0" />
+                <element signature="e#7528#12037#0" />
+                <element signature="e#7556#7677#0" />
+                <element signature="e#7724#7947#0" />
+                <element signature="e#7989#8184#0" />
+                <element signature="e#8243#8752#0" />
+                <element signature="e#8321#8475#1" />
+                <element signature="e#8600#8752#0" />
+                <element signature="e#8673#8752#0" />
+                <element signature="e#8826#9586#0" />
+                <element signature="e#8826#9303#1" />
+                <element signature="e#9384#9462#0" />
+                <element signature="e#9489#9586#0" />
+                <element signature="e#9635#10600#0" />
+                <element signature="e#9635#9816#1" />
+                <element signature="e#9984#10051#0" />
+                <element signature="e#10166#10227#0" />
+                <element signature="e#10366#10420#0" />
+                <element signature="e#10634#10993#0" />
+                <element signature="e#10884#10973#0" />
+                <element signature="e#11023#11444#0" />
+                <element signature="e#11023#11373#1" />
+                <element signature="e#11504#11580#0" />
+                <element signature="e#11631#11850#0" />
+                <element signature="e#11945#11981#0" />
+                <element signature="e#12011#12037#0" />
+                <element signature="e#12078#14060#0" />
+                <element signature="e#12160#12473#0" />
+                <element signature="e#12314#12473#0" />
+                <element signature="e#12545#13677#0" />
+                <element signature="e#12626#13648#0" />
+                <element signature="e#12818#12883#0" />
+                <element signature="e#13364#13648#0" />
+                <element signature="e#13717#13989#0" />
+                <element signature="e#13794#13989#0" />
+                <element signature="e#13888#13959#0" />
+                <element signature="e#14049#14060#0" />
+                <element signature="e#14108#14112#0" />
+                <element signature="e#14185#14292#0" />
+                <element signature="e#14345#14371#0" />
+                <element signature="e#14414#15618#0" />
+                <element signature="e#14414#14479#0" />
+                <element signature="e#15131#15316#0" />
+                <element signature="e#15176#15285#0" />
+                <element signature="e#15687#15735#0" />
+                <element signature="e#15800#16246#0" />
+                <element signature="e#15861#16021#0" />
+                <element signature="e#16308#16922#0" />
+                <element signature="e#16347#16756#0" />
+                <element signature="e#16397#16512#0" />
+                <element signature="e#16783#16844#0" />
+                <element signature="e#16980#18028#0" />
+                <element signature="e#16980#17404#1" />
+                <element signature="e#17476#17822#0" />
+                <element signature="e#17526#17641#0" />
+                <element signature="e#18082#18319#0" />
+                <element signature="e#18360#19257#0" />
+                <element signature="e#19108#19257#0" />
+                <element signature="e#19297#19514#0" />
+                <element signature="e#19381#19514#0" />
+                <element signature="e#19564#20282#0" />
+                <element signature="e#19775#20282#0" />
+                <element signature="e#19775#19838#0" />
+                <element signature="e#20335#20436#0" />
+                <element signature="e#20466#20992#0" />
+                <element signature="e#20577#20992#0" />
+                <element signature="e#20629#20697#0" />
+                <element signature="e#20883#20974#0" />
+                <element signature="e#21022#21064#0" />
+                <element signature="e#21124#21336#0" />
+                <element signature="e#21397#22105#0" />
+                <element signature="e#21652#21755#0" />
+                <element signature="e#21819#21884#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>send_email</find>
+      <find>认证码错误</find>
+      <find>connect</find>
+      <find>shiwei_one</find>
+      <find>request_finished</find>
+      <find>dkfldf</find>
+      <find>set_script_prefix</find>
+      <find>autoreload</find>
+      <find>settings</find>
+      <find>time</find>
+      <find>is_overridden</find>
+      <find>FORCE_SCRIPT_NAME</find>
+      <find>_prefixes</find>
+      <find>DATABASE_ROUTERS</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/login/models.py" />
+        <option value="$PROJECT_DIR$/login/admin.py" />
+        <option value="$PROJECT_DIR$/login/views.py" />
+        <option value="$PROJECT_DIR$/one/__init__.py" />
+        <option value="$PROJECT_DIR$/one/two/__init__.py" />
+        <option value="$PROJECT_DIR$/one/two/three/__init__.py" />
+        <option value="$PROJECT_DIR$/one/two/three/alex.py" />
+        <option value="$PROJECT_DIR$/one/two/three/inner.py" />
+        <option value="$PROJECT_DIR$/manage.py" />
+        <option value="$PROJECT_DIR$/one/alex.py" />
+        <option value="D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/utils/translation/__init__.py" />
+        <option value="D:/SystemInstallFiles/python_msi/pythonVirtual_Env/danluan_Env-1.5.1/Lib/site-packages/django/core/management/__init__.py" />
+        <option value="$PROJECT_DIR$/login/urls.py" />
+        <option value="D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/contrib/auth/apps.py" />
+        <option value="$PROJECT_DIR$/login/luoji/order.py" />
+        <option value="$PROJECT_DIR$/login/luoji/funtools_Demo.py" />
+        <option value="$PROJECT_DIR$/login/luoji/counter_Demo.py" />
+        <option value="$PROJECT_DIR$/login/luoji/foreground.py" />
+        <option value="$PROJECT_DIR$/mysite/urls.py" />
+        <option value="D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/middleware/security.py" />
+        <option value="D:/SystemInstallFiles/python_msi/python_3.7.4/Lib/http/server.py" />
+        <option value="D:/SystemInstallFiles/python_msi/python_3.7.4/Lib/selectors.py" />
+        <option value="D:/SystemInstallFiles/python_msi/python_3.7.4/Lib/socketserver.py" />
+        <option value="D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/utils/deprecation.py" />
+        <option value="$PROJECT_DIR$/mysite/settings.py" />
+        <option value="D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/contrib/staticfiles/handlers.py" />
+        <option value="D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/db/models/base.py" />
+        <option value="$PROJECT_DIR$/login/luoji/shiwei.py" />
+        <option value="$PROJECT_DIR$/login/luoji/hanqing/__init__.py" />
+        <option value="D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/conf/__init__.py" />
+        <option value="$PROJECT_DIR$/login/luoji/wei02.py" />
+        <option value="$PROJECT_DIR$/login/luoji/wei.py" />
+        <option value="$PROJECT_DIR$/login/luoji/hanqing/shiwei.py" />
+        <option value="D:/SystemInstallFiles/python_msi/python_3.7.4/Lib/_threading_local.py" />
+        <option value="D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/urls/base.py" />
+        <option value="D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/__init__.py" />
+        <option value="$PROJECT_DIR$/login/luoji/argparse_test/wangan.py" />
+        <option value="D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/utils/module_loading.py" />
+        <option value="D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/apps/registry.py" />
+        <option value="D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/core/management/__init__.py" />
+        <option value="D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/contrib/staticfiles/management/commands/runserver.py" />
+        <option value="D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/apps/config.py" />
+        <option value="D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/db/utils.py" />
+        <option value="D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/utils/version.py" />
+        <option value="D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/core/management/base.py" />
+        <option value="D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/utils/autoreload.py" />
+        <option value="D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/core/management/commands/runserver.py" />
+        <option value="D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/core/servers/basehttp.py" />
+        <option value="D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/core/handlers/wsgi.py" />
+        <option value="D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/core/handlers/base.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1300" />
+    <option name="height" value="788" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="login-register-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="login-register-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="login-register-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="login-register-master" type="462c0819:PsiDirectoryNode" />
+              <item name="mysite" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="login-register-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="login-register-master" type="462c0819:PsiDirectoryNode" />
+              <item name="resi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="login-register-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="login-register-master" type="462c0819:PsiDirectoryNode" />
+              <item name="resi" type="462c0819:PsiDirectoryNode" />
+              <item name="models.py" type="8704e2dd:PyFileNode" />
+            </path>
+            <path>
+              <item name="login-register-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="login-register-master" type="462c0819:PsiDirectoryNode" />
+              <item name="resi" type="462c0819:PsiDirectoryNode" />
+              <item name="models.py" type="8704e2dd:PyFileNode" />
+              <item name="Book" type="dd8bbb05:PyElementNode" />
+            </path>
+            <path>
+              <item name="login-register-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="login-register-master" type="462c0819:PsiDirectoryNode" />
+              <item name="manage.py" type="8704e2dd:PyFileNode" />
+            </path>
+            <path>
+              <item name="login-register-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="login-register-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 (liujiang_Env) &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="login-register-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 (liujiang_Env) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="login-register-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 (liujiang_Env) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
+              <item name="http" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="login-register-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 (liujiang_Env) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
+              <item name="http" type="462c0819:PsiDirectoryNode" />
+              <item name="server.py" type="8704e2dd:PyFileNode" />
+            </path>
+            <path>
+              <item name="login-register-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 (liujiang_Env) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
+              <item name="http" type="462c0819:PsiDirectoryNode" />
+              <item name="server.py" type="8704e2dd:PyFileNode" />
+              <item name="BaseHTTPRequestHandler" type="dd8bbb05:PyElementNode" />
+            </path>
+            <path>
+              <item name="login-register-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 (liujiang_Env) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
+              <item name="wsgiref" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="login-register-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 (liujiang_Env) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
+              <item name="wsgiref" type="462c0819:PsiDirectoryNode" />
+              <item name="simple_server.py" type="8704e2dd:PyFileNode" />
+            </path>
+            <path>
+              <item name="login-register-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 (liujiang_Env) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
+              <item name="wsgiref" type="462c0819:PsiDirectoryNode" />
+              <item name="simple_server.py" type="8704e2dd:PyFileNode" />
+              <item name="WSGIRequestHandler" type="dd8bbb05:PyElementNode" />
+            </path>
+            <path>
+              <item name="login-register-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 (liujiang_Env) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
+              <item name="socketserver.py" type="8704e2dd:PyFileNode" />
+            </path>
+            <path>
+              <item name="login-register-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 (liujiang_Env) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
+              <item name="socketserver.py" type="8704e2dd:PyFileNode" />
+              <item name="StreamRequestHandler" type="dd8bbb05:PyElementNode" />
+            </path>
+            <path>
+              <item name="login-register-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 (liujiang_Env) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="liujiang_Env" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="login-register-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 (liujiang_Env) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="liujiang_Env" type="462c0819:PsiDirectoryNode" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="login-register-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 (liujiang_Env) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="liujiang_Env" type="462c0819:PsiDirectoryNode" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="login-register-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 (liujiang_Env) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="liujiang_Env" type="462c0819:PsiDirectoryNode" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="django" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="login-register-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 (liujiang_Env) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="liujiang_Env" type="462c0819:PsiDirectoryNode" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="django" type="462c0819:PsiDirectoryNode" />
+              <item name="contrib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="login-register-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 (liujiang_Env) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="liujiang_Env" type="462c0819:PsiDirectoryNode" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="django" type="462c0819:PsiDirectoryNode" />
+              <item name="contrib" type="462c0819:PsiDirectoryNode" />
+              <item name="sessions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="login-register-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 (liujiang_Env) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="liujiang_Env" type="462c0819:PsiDirectoryNode" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="django" type="462c0819:PsiDirectoryNode" />
+              <item name="contrib" type="462c0819:PsiDirectoryNode" />
+              <item name="sessions" type="462c0819:PsiDirectoryNode" />
+              <item name="middleware.py" type="8704e2dd:PyFileNode" />
+            </path>
+            <path>
+              <item name="login-register-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 (liujiang_Env) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="liujiang_Env" type="462c0819:PsiDirectoryNode" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="django" type="462c0819:PsiDirectoryNode" />
+              <item name="contrib" type="462c0819:PsiDirectoryNode" />
+              <item name="sessions" type="462c0819:PsiDirectoryNode" />
+              <item name="middleware.py" type="8704e2dd:PyFileNode" />
+              <item name="SessionMiddleware" type="dd8bbb05:PyElementNode" />
+            </path>
+            <path>
+              <item name="login-register-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 (liujiang_Env) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="liujiang_Env" type="462c0819:PsiDirectoryNode" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="django" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="login-register-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 (liujiang_Env) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="liujiang_Env" type="462c0819:PsiDirectoryNode" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="django" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="handlers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="login-register-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 (liujiang_Env) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="liujiang_Env" type="462c0819:PsiDirectoryNode" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="django" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="management" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="login-register-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 (liujiang_Env) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="liujiang_Env" type="462c0819:PsiDirectoryNode" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="django" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="management" type="462c0819:PsiDirectoryNode" />
+              <item name="commands" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="login-register-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 (liujiang_Env) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="liujiang_Env" type="462c0819:PsiDirectoryNode" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="django" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="management" type="462c0819:PsiDirectoryNode" />
+              <item name="commands" type="462c0819:PsiDirectoryNode" />
+              <item name="runserver.py" type="8704e2dd:PyFileNode" />
+            </path>
+            <path>
+              <item name="login-register-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 (liujiang_Env) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="liujiang_Env" type="462c0819:PsiDirectoryNode" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="django" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="management" type="462c0819:PsiDirectoryNode" />
+              <item name="commands" type="462c0819:PsiDirectoryNode" />
+              <item name="runserver.py" type="8704e2dd:PyFileNode" />
+              <item name="Command" type="dd8bbb05:PyElementNode" />
+            </path>
+            <path>
+              <item name="login-register-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 (liujiang_Env) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="liujiang_Env" type="462c0819:PsiDirectoryNode" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="django" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="servers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="login-register-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 (liujiang_Env) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="liujiang_Env" type="462c0819:PsiDirectoryNode" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="django" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="servers" type="462c0819:PsiDirectoryNode" />
+              <item name="basehttp.py" type="8704e2dd:PyFileNode" />
+            </path>
+            <path>
+              <item name="login-register-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 (liujiang_Env) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="liujiang_Env" type="462c0819:PsiDirectoryNode" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="django" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="servers" type="462c0819:PsiDirectoryNode" />
+              <item name="basehttp.py" type="8704e2dd:PyFileNode" />
+              <item name="WSGIRequestHandler" type="dd8bbb05:PyElementNode" />
+            </path>
+            <path>
+              <item name="login-register-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 (liujiang_Env) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="liujiang_Env" type="462c0819:PsiDirectoryNode" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="django" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="wsgi.py" type="8704e2dd:PyFileNode" />
+            </path>
+            <path>
+              <item name="login-register-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 (liujiang_Env) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="liujiang_Env" type="462c0819:PsiDirectoryNode" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="django" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="login-register-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 (liujiang_Env) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="liujiang_Env" type="462c0819:PsiDirectoryNode" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="django" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+              <item name="autoreload.py" type="8704e2dd:PyFileNode" />
+            </path>
+            <path>
+              <item name="login-register-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 (liujiang_Env) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="login-register-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 (liujiang_Env) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="login-register-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 (liujiang_Env) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="django" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="login-register-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 (liujiang_Env) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="django" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="login-register-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 (liujiang_Env) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="django" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="handlers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="login-register-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 (liujiang_Env) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="django" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="handlers" type="462c0819:PsiDirectoryNode" />
+              <item name="base.py" type="8704e2dd:PyFileNode" />
+            </path>
+            <path>
+              <item name="login-register-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 (liujiang_Env) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="django" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="handlers" type="462c0819:PsiDirectoryNode" />
+              <item name="wsgi.py" type="8704e2dd:PyFileNode" />
+            </path>
+            <path>
+              <item name="login-register-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 (liujiang_Env) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="django" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="handlers" type="462c0819:PsiDirectoryNode" />
+              <item name="wsgi.py" type="8704e2dd:PyFileNode" />
+              <item name="WSGIHandler" type="dd8bbb05:PyElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Django项目\刘江\login-register-master\login\luoji\hanqing" />
+      <recent name="E:\Django项目\刘江\login-register-master\one" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Django server.Unnamed">
+    <configuration name="alex" type="PythonConfigurationType" factoryName="Python">
+      <module name="login-register-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/one/two/three" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="E:\Django项目\刘江\login-register-master\one\alex.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="config" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="login-register-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/apps" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/apps/config.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="counter_Demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="login-register-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/login/luoji" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/login/luoji/counter_Demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="funtools_Demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="login-register-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/login/luoji" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/login/luoji/funtools_Demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="order" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="login-register-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/login/luoji" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/login/luoji/order.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="wangan" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="login-register-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/login/luoji/argparse_test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/login/luoji/argparse_test/wangan.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="wei" type="PythonConfigurationType" factoryName="Python">
+      <module name="login-register-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/login/luoji" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/login/luoji/wei.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unnamed" type="Python.DjangoServer" factoryName="Django server">
+      <module name="login-register-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\SystemInstallFiles\python_msi\pythonVirtual_Env\liujiang_Env\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8888" />
+      <option name="host" value="0.0.0.0" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Python.DjangoServer" factoryName="Django server">
+      <module name="login-register-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="E:\ComputerInstallFiles\PythonAllVersion\pythonVirtualEnv\liujiang_Env\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="9999" />
+      <option name="host" value="0.0.0.0" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Django server.Unnamed" />
+      <item itemvalue="Python.alex" />
+      <item itemvalue="Python.wei" />
+      <item itemvalue="Python.order" />
+      <item itemvalue="Python.counter_Demo" />
+      <item itemvalue="Python.funtools_Demo" />
+      <item itemvalue="Python.config" />
+      <item itemvalue="Python.wangan" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.wangan" />
+        <item itemvalue="Python.config" />
+        <item itemvalue="Python.funtools_Demo" />
+        <item itemvalue="Python.counter_Demo" />
+        <item itemvalue="Python.order" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3044443-8ebc-456a-9a5a-241875ea8add" name="Default Changelist" comment="" />
+      <created>1572166974079</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572166974079</updated>
+      <workItem from="1572166977891" duration="779000" />
+      <workItem from="1572168110011" duration="3800000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4579000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1300" height="788" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.3419355" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.16006339" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="5" weight="0.3534073" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" />
+      <window_info anchor="bottom" id="Run" order="8" weight="0.0" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.3977813" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="right" id="Database" order="0" weight="0.32928804" />
+      <window_info anchor="right" id="SciView" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../.." />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/apps/registry.py</url>
+          <line>99</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/core/management/__init__.py</url>
+          <line>368</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/core/management/__init__.py</url>
+          <line>389</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/core/management/__init__.py</url>
+          <line>409</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/apps/registry.py</url>
+          <line>104</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/apps/registry.py</url>
+          <line>125</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/apps/config.py</url>
+          <line>253</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/apps/config.py</url>
+          <line>143</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/apps/config.py</url>
+          <line>267</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/apps/registry.py</url>
+          <line>45</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/apps/registry.py</url>
+          <line>62</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/core/management/base.py</url>
+          <line>352</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/core/management/base.py</url>
+          <line>398</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/core/management/commands/runserver.py</url>
+          <line>70</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/core/management/commands/runserver.py</url>
+          <line>102</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/utils/autoreload.py</url>
+          <line>648</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/utils/autoreload.py</url>
+          <line>614</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/utils/autoreload.py</url>
+          <line>620</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/core/management/commands/runserver.py</url>
+          <line>156</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/core/servers/basehttp.py</url>
+          <line>229</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/core/management/commands/runserver.py</url>
+          <line>112</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/utils/autoreload.py</url>
+          <line>312</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/core/management/__init__.py</url>
+          <line>416</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/apps/registry.py</url>
+          <line>151</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/apps/registry.py</url>
+          <line>160</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://D:/SystemInstallFiles/python_msi/python_3.7.4/Lib/typing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-734">
+          <caret line="403" selection-start-line="403" selection-end-line="403" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3/argparse.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="55" column="31" selection-start-line="55" selection-start-column="31" selection-end-line="55" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login/luoji/argparse_test/wangan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13">
+          <caret line="21" column="36" lean-forward="true" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/apps/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login/luoji/argparse_test/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/importlib/util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/utils/module_loading.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="62" column="24" selection-start-line="62" selection-start-column="4" selection-end-line="62" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/contrib/admin/apps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/db/models/options.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="720" column="35" lean-forward="true" selection-start-line="720" selection-start-column="35" selection-end-line="720" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/contrib/staticfiles/management/commands/runserver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/SystemInstallFiles/python_msi/python_3.7.4/Lib/argparse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3234">
+          <caret line="151" column="6" selection-start-line="151" selection-start-column="6" selection-end-line="151" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/urls/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="103" column="4" selection-start-line="103" selection-start-column="4" selection-end-line="103" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/conf/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="258" column="19" selection-start-line="258" selection-start-column="19" selection-end-line="258" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#245#1" />
+            <element signature="e#247#263#0" expanded="true" />
+            <element signature="e#780#902#0" />
+            <element signature="e#941#1281#0" />
+            <element signature="e#941#1110#1" />
+            <element signature="e#1163#1194#0" />
+            <element signature="e#1249#1281#0" />
+            <element signature="e#1320#1562#1" />
+            <element signature="e#1604#1806#1" />
+            <element signature="e#1959#2309#0" />
+            <element signature="e#2068#2261#0" />
+            <element signature="e#2596#2669#0" />
+            <element signature="e#2989#3316#0" />
+            <element signature="e#2989#3154#1" />
+            <element signature="e#3359#3488#0" />
+            <element signature="e#3568#4085#0" />
+            <element signature="e#3568#3794#1" />
+            <element signature="e#4300#4810#0" />
+            <element signature="e#4342#4400#0" />
+            <element signature="e#4601#4754#0" />
+            <element signature="e#4862#5356#0" />
+            <element signature="e#4904#4962#0" />
+            <element signature="e#5163#5308#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/db/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+            <element signature="e#669#1240#0" />
+            <element signature="e#669#861#1" />
+            <element signature="e#903#954#0" />
+            <element signature="e#1004#1062#0" />
+            <element signature="e#1105#1156#0" />
+            <element signature="e#1195#1240#0" />
+            <element signature="e#1463#1526#0" />
+            <element signature="e#1578#1651#0" />
+            <element signature="e#1711#1786#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/conf/global_settings.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/db/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="297" column="33" selection-start-line="297" selection-start-column="20" selection-end-line="297" selection-end-column="33" />
+          <folding>
+            <element signature="e#7638#8322#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resi/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#125#1547#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/contrib/contenttypes/management/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="103" column="79" lean-forward="true" selection-start-line="103" selection-start-column="79" selection-end-line="103" selection-end-column="79" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/contrib/auth/management/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="34" column="4" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/apps/registry.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="62" column="8" selection-start-line="62" selection-start-column="8" selection-end-line="62" selection-end-column="8" />
+          <folding>
+            <element signature="e#276#488#1" />
+            <element signature="e#541#2611#0" />
+            <element signature="e#541#606#0" />
+            <element signature="e#939#1008#0" />
+            <element signature="e#1667#1725#0" />
+            <element signature="e#2153#2221#0" />
+            <element signature="e#2666#2995#1" />
+            <element signature="e#3047#3113#0" />
+            <element signature="e#3338#3403#0" />
+            <element signature="e#3506#3664#0" />
+            <element signature="e#3506#3566#0" />
+            <element signature="e#3719#3776#0" />
+            <element signature="e#4062#4121#0" />
+            <element signature="e#4269#4418#0" />
+            <element signature="e#4321#4398#0" />
+            <element signature="e#4528#5122#1" />
+            <element signature="e#5192#5224#0" />
+            <element signature="e#5389#5465#0" />
+            <element signature="e#5510#5655#0" />
+            <element signature="e#5558#5630#0" />
+            <element signature="e#5721#5754#0" />
+            <element signature="e#6079#6125#0" />
+            <element signature="e#6483#6893#0" />
+            <element signature="e#6591#6893#0" />
+            <element signature="e#6636#6695#0" />
+            <element signature="e#6975#7184#0" />
+            <element signature="e#6975#7083#1" />
+            <element signature="e#7263#7400#0" />
+            <element signature="e#7484#8070#0" />
+            <element signature="e#7484#7643#1" />
+            <element signature="e#7773#8070#0" />
+            <element signature="e#7901#8031#0" />
+            <element signature="e#7954#8031#0" />
+            <element signature="e#8076#8092#0" />
+            <element signature="e#8293#9138#0" />
+            <element signature="e#8293#8820#1" />
+            <element signature="e#8941#9079#0" />
+            <element signature="e#9249#10179#0" />
+            <element signature="e#9249#9745#1" />
+            <element signature="e#10237#11317#0" />
+            <element signature="e#10237#10302#0" />
+            <element signature="e#10551#11209#0" />
+            <element signature="e#10701#10999#0" />
+            <element signature="e#10736#10922#0" />
+            <element signature="e#11034#11209#0" />
+            <element signature="e#11365#11693#0" />
+            <element signature="e#11365#11585#1" />
+            <element signature="e#11757#12464#0" />
+            <element signature="e#11757#12039#1" />
+            <element signature="e#12161#12370#0" />
+            <element signature="e#12221#12370#0" />
+            <element signature="e#12533#12980#0" />
+            <element signature="e#12533#12760#1" />
+            <element signature="e#12866#12959#0" />
+            <element signature="e#13083#14081#0" />
+            <element signature="e#13083#13603#1" />
+            <element signature="e#13676#14061#0" />
+            <element signature="e#14136#15115#0" />
+            <element signature="e#14136#14514#1" />
+            <element signature="e#14687#14851#0" />
+            <element signature="e#14962#15087#0" />
+            <element signature="e#15161#15298#0" />
+            <element signature="e#15353#16427#0" />
+            <element signature="e#15353#16091#1" />
+            <element signature="e#16473#16674#0" />
+            <element signature="e#16711#17407#0" />
+            <element signature="e#16711#16884#1" />
+            <element signature="e#16893#16943#0" />
+            <element signature="e#17068#17407#0" />
+            <element signature="e#17068#17137#0" />
+            <element signature="e#17297#17407#0" />
+            <element signature="e#17476#19393#0" />
+            <element signature="e#17476#17834#1" />
+            <element signature="e#17955#18014#0" />
+            <element signature="e#18348#19393#0" />
+            <element signature="e#18399#18466#0" />
+            <element signature="e#18655#18779#0" />
+            <element signature="e#18838#18904#0" />
+            <element signature="e#19447#19759#0" />
+            <element signature="e#19447#19608#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/contrib/auth/checks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-902">
+          <caret line="38" column="25" selection-start-line="38" selection-start-column="11" selection-end-line="38" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/contrib/auth/apps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/contrib/contenttypes/apps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/contrib/messages/apps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/apps/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+          <folding>
+            <element signature="e#368#2325#0" />
+            <element signature="e#368#525#1" />
+            <element signature="e#648#717#0" />
+            <element signature="e#820#890#0" />
+            <element signature="e#986#1053#0" />
+            <element signature="e#1526#1577#0" />
+            <element signature="e#1733#1861#0" />
+            <element signature="e#2156#2225#0" />
+            <element signature="e#2359#2416#0" />
+            <element signature="e#2467#3808#0" />
+            <element signature="e#2572#2593#0" />
+            <element signature="e#2893#3233#0" />
+            <element signature="e#3061#3233#0" />
+            <element signature="e#3061#3123#0" />
+            <element signature="e#3273#3519#0" />
+            <element signature="e#3317#3500#0" />
+            <element signature="e#3556#3784#0" />
+            <element signature="e#3600#3771#0" />
+            <element signature="e#3863#8178#0" />
+            <element signature="e#3863#4033#1" />
+            <element signature="e#4059#4441#0" />
+            <element signature="e#4059#4121#0" />
+            <element signature="e#4483#4874#0" />
+            <element signature="e#4483#4549#0" />
+            <element signature="e#4727#4791#0" />
+            <element signature="e#4902#5736#0" />
+            <element signature="e#4923#5150#0" />
+            <element signature="e#4923#4985#0" />
+            <element signature="e#5271#5458#0" />
+            <element signature="e#5271#5328#0" />
+            <element signature="e#5555#5736#0" />
+            <element signature="e#5617#5736#1" />
+            <element signature="e#5746#5816#0" />
+            <element signature="e#5943#6092#0" />
+            <element signature="e#6137#7050#0" />
+            <element signature="e#6172#7010#0" />
+            <element signature="e#6172#6231#0" />
+            <element signature="e#6492#6705#0" />
+            <element signature="e#6775#6973#0" />
+            <element signature="e#7060#7125#0" />
+            <element signature="e#7248#7338#0" />
+            <element signature="e#7348#7411#0" />
+            <element signature="e#7602#7691#0" />
+            <element signature="e#7866#8053#0" />
+            <element signature="e#8245#8717#0" />
+            <element signature="e#8245#8391#1" />
+            <element signature="e#8617#8717#0" />
+            <element signature="e#8822#10069#0" />
+            <element signature="e#8822#9235#1" />
+            <element signature="e#9284#9820#1" />
+            <element signature="e#9878#10069#0" />
+            <element signature="e#10144#11619#0" />
+            <element signature="e#10144#10208#0" />
+            <element signature="e#10583#10657#0" />
+            <element signature="e#11185#11619#0" />
+            <element signature="e#11260#11315#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/contrib/sessions/apps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/contrib/staticfiles/apps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="31" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/utils/version.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="26" column="44" selection-start-line="26" selection-start-column="44" selection-end-line="26" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/core/checks/messages.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/core/checks/registry.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="102" column="28" selection-start-line="102" selection-start-column="28" selection-end-line="102" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/942038511/_signal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+          <folding>
+            <element signature="e#84#93#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/core/management/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="409" column="51" lean-forward="true" selection-start-line="409" selection-start-column="51" selection-end-line="409" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/core/management/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-204">
+          <caret line="371" column="8" selection-start-line="371" selection-start-column="8" selection-end-line="371" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#134#1" />
+            <element signature="e#135#144#0" expanded="true" />
+            <element signature="e#487#967#1" />
+            <element signature="e#1021#1103#0" />
+            <element signature="e#1021#1094#1" />
+            <element signature="e#1147#1351#1" />
+            <element signature="e#1666#1937#0" />
+            <element signature="e#1977#2113#0" />
+            <element signature="e#4788#7722#1" />
+            <element signature="e#17523#17887#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysite/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+          <folding>
+            <element signature="e#222#231#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/contrib/auth/middleware.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="15" column="40" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/core/handlers/exception.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="33" column="43" selection-start-line="33" selection-start-column="36" selection-end-line="33" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/utils/deprecation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="84" column="6" selection-start-line="84" selection-start-column="6" selection-end-line="84" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/middleware/security.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysite/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="534">
+          <caret line="118" column="13" selection-start-line="118" selection-start-column="13" selection-end-line="118" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/contrib/sessions/middleware.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="13" column="40" lean-forward="true" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/core/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/core/handlers/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="132" column="17" selection-start-line="132" selection-start-column="6" selection-end-line="132" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/core/handlers/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="65" column="24" selection-start-line="65" selection-start-column="8" selection-end-line="65" selection-end-column="24" />
+          <folding>
+            <element signature="e#671#2387#0" />
+            <element signature="e#1270#1539#0" />
+            <element signature="e#1593#1715#0" />
+            <element signature="e#2435#2714#0" />
+            <element signature="e#2761#3257#0" />
+            <element signature="e#3305#6058#0" />
+            <element signature="e#6135#6472#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/utils/autoreload.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="620" column="24" selection-start-line="620" selection-start-column="21" selection-end-line="620" selection-end-column="24" />
+          <folding>
+            <element signature="e#724#803#0" />
+            <element signature="e#1443#1552#0" />
+            <element signature="e#2535#3766#0" />
+            <element signature="e#2535#2604#0" />
+            <element signature="e#2799#2925#1" />
+            <element signature="e#2931#3008#0" />
+            <element signature="e#3855#5000#0" />
+            <element signature="e#3989#4598#0" />
+            <element signature="e#3989#4060#0" />
+            <element signature="e#4320#4389#0" />
+            <element signature="e#4471#4598#0" />
+            <element signature="e#4694#4970#0" />
+            <element signature="e#4812#4923#0" />
+            <element signature="e#4812#4875#0" />
+            <element signature="e#5064#6137#0" />
+            <element signature="e#5064#5344#1" />
+            <element signature="e#5349#5374#0" />
+            <element signature="e#5676#5875#0" />
+            <element signature="e#5963#6102#0" />
+            <element signature="e#6172#6585#0" />
+            <element signature="e#6172#6268#1" />
+            <element signature="e#6303#6585#0" />
+            <element signature="e#6619#7125#0" />
+            <element signature="e#6619#6800#1" />
+            <element signature="e#6953#7074#0" />
+            <element signature="e#7162#7225#0" />
+            <element signature="e#7261#7501#0" />
+            <element signature="e#7378#7501#0" />
+            <element signature="e#7528#12037#0" />
+            <element signature="e#7556#7677#0" />
+            <element signature="e#7724#7947#0" />
+            <element signature="e#7989#8184#0" />
+            <element signature="e#8243#8752#0" />
+            <element signature="e#8321#8475#1" />
+            <element signature="e#8600#8752#0" />
+            <element signature="e#8673#8752#0" />
+            <element signature="e#8826#9586#0" />
+            <element signature="e#8826#9303#1" />
+            <element signature="e#9384#9462#0" />
+            <element signature="e#9489#9586#0" />
+            <element signature="e#9635#10600#0" />
+            <element signature="e#9635#9816#1" />
+            <element signature="e#9984#10051#0" />
+            <element signature="e#10166#10227#0" />
+            <element signature="e#10366#10420#0" />
+            <element signature="e#10634#10993#0" />
+            <element signature="e#10884#10973#0" />
+            <element signature="e#11023#11444#0" />
+            <element signature="e#11023#11373#1" />
+            <element signature="e#11504#11580#0" />
+            <element signature="e#11631#11850#0" />
+            <element signature="e#11945#11981#0" />
+            <element signature="e#12011#12037#0" />
+            <element signature="e#12078#14060#0" />
+            <element signature="e#12160#12473#0" />
+            <element signature="e#12314#12473#0" />
+            <element signature="e#12545#13677#0" />
+            <element signature="e#12626#13648#0" />
+            <element signature="e#12818#12883#0" />
+            <element signature="e#13364#13648#0" />
+            <element signature="e#13717#13989#0" />
+            <element signature="e#13794#13989#0" />
+            <element signature="e#13888#13959#0" />
+            <element signature="e#14049#14060#0" />
+            <element signature="e#14108#14112#0" />
+            <element signature="e#14185#14292#0" />
+            <element signature="e#14345#14371#0" />
+            <element signature="e#14414#15618#0" />
+            <element signature="e#14414#14479#0" />
+            <element signature="e#15131#15316#0" />
+            <element signature="e#15176#15285#0" />
+            <element signature="e#15687#15735#0" />
+            <element signature="e#15800#16246#0" />
+            <element signature="e#15861#16021#0" />
+            <element signature="e#16308#16922#0" />
+            <element signature="e#16347#16756#0" />
+            <element signature="e#16397#16512#0" />
+            <element signature="e#16783#16844#0" />
+            <element signature="e#16980#18028#0" />
+            <element signature="e#16980#17404#1" />
+            <element signature="e#17476#17822#0" />
+            <element signature="e#17526#17641#0" />
+            <element signature="e#18082#18319#0" />
+            <element signature="e#18360#19257#0" />
+            <element signature="e#19108#19257#0" />
+            <element signature="e#19297#19514#0" />
+            <element signature="e#19381#19514#0" />
+            <element signature="e#19564#20282#0" />
+            <element signature="e#19775#20282#0" />
+            <element signature="e#19775#19838#0" />
+            <element signature="e#20335#20436#0" />
+            <element signature="e#20466#20992#0" />
+            <element signature="e#20577#20992#0" />
+            <element signature="e#20629#20697#0" />
+            <element signature="e#20883#20974#0" />
+            <element signature="e#21022#21064#0" />
+            <element signature="e#21124#21336#0" />
+            <element signature="e#21397#22105#0" />
+            <element signature="e#21652#21755#0" />
+            <element signature="e#21819#21884#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/core/management/commands/runserver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="156" column="12" lean-forward="true" selection-start-line="156" selection-start-column="12" selection-end-line="156" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+            <element signature="e#360#581#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/SystemInstallFiles/python_msi/python_3.7.4/Lib/socketserver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="745" column="6" selection-start-line="745" selection-start-column="6" selection-end-line="745" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#4982#1" />
+            <element signature="e#5215#5422#0" />
+            <element signature="e#5558#5715#0" />
+            <element signature="e#5573#5714#0" />
+            <element signature="e#5717#5793#0" />
+            <element signature="e#6024#13538#0" />
+            <element signature="e#6024#6982#1" />
+            <element signature="e#7073#7314#0" />
+            <element signature="e#7355#7457#0" />
+            <element signature="e#7355#7444#1" />
+            <element signature="e#7515#8763#0" />
+            <element signature="e#7515#7730#1" />
+            <element signature="e#7792#8664#0" />
+            <element signature="e#7792#7858#0" />
+            <element signature="e#8101#8664#0" />
+            <element signature="e#8268#8664#0" />
+            <element signature="e#8328#8370#0" />
+            <element signature="e#8694#8763#0" />
+            <element signature="e#8797#9069#0" />
+            <element signature="e#8797#8995#1" />
+            <element signature="e#9110#9290#0" />
+            <element signature="e#9110#9277#1" />
+            <element signature="e#9296#9367#0" />
+            <element signature="e#9912#11002#0" />
+            <element signature="e#9912#9997#1" />
+            <element signature="e#10006#10061#0" />
+            <element signature="e#10397#10464#0" />
+            <element signature="e#10584#11002#0" />
+            <element signature="e#10671#11002#0" />
+            <element signature="e#10830#11002#0" />
+            <element signature="e#10878#11002#0" />
+            <element signature="e#11051#11822#0" />
+            <element signature="e#11051#11291#1" />
+            <element signature="e#11474#11765#0" />
+            <element signature="e#11587#11676#0" />
+            <element signature="e#11713#11765#0" />
+            <element signature="e#11862#11980#0" />
+            <element signature="e#11862#11967#1" />
+            <element signature="e#12045#12181#0" />
+            <element signature="e#12045#12161#1" />
+            <element signature="e#12247#12431#0" />
+            <element signature="e#12247#12339#1" />
+            <element signature="e#12469#12556#0" />
+            <element signature="e#12469#12543#1" />
+            <element signature="e#12621#12747#0" />
+            <element signature="e#12798#12891#0" />
+            <element signature="e#12939#12999#0" />
+            <element signature="e#13062#13432#0" />
+            <element signature="e#13062#13184#1" />
+            <element signature="e#13467#13478#0" />
+            <element signature="e#13519#13538#0" />
+            <element signature="e#13575#16839#0" />
+            <element signature="e#13575#14656#1" />
+            <element signature="e#14887#15321#0" />
+            <element signature="e#15165#15321#0" />
+            <element signature="e#15186#15243#0" />
+            <element signature="e#15280#15321#0" />
+            <element signature="e#15358#15660#0" />
+            <element signature="e#15358#15443#1" />
+            <element signature="e#15701#15842#0" />
+            <element signature="e#15701#15790#1" />
+            <element signature="e#15880#15982#0" />
+            <element signature="e#15880#15954#1" />
+            <element signature="e#16014#16133#0" />
+            <element signature="e#16014#16097#1" />
+            <element signature="e#16170#16301#0" />
+            <element signature="e#16170#16265#1" />
+            <element signature="e#16352#16720#0" />
+            <element signature="e#16435#16603#0" />
+            <element signature="e#16435#16488#0" />
+            <element signature="e#16768#16839#0" />
+            <element signature="e#16875#17439#0" />
+            <element signature="e#17033#17143#0" />
+            <element signature="e#17184#17232#0" />
+            <element signature="e#17283#17350#0" />
+            <element signature="e#17398#17439#0" />
+            <element signature="e#17469#20921#0" />
+            <element signature="e#17497#20921#0" />
+            <element signature="e#17811#19389#0" />
+            <element signature="e#17954#18023#0" />
+            <element signature="e#18472#18787#0" />
+            <element signature="e#18497#18577#0" />
+            <element signature="e#18640#18729#0" />
+            <element signature="e#18902#19389#0" />
+            <element signature="e#18927#19191#0" />
+            <element signature="e#19037#19099#0" />
+            <element signature="e#19254#19332#0" />
+            <element signature="e#19437#19597#0" />
+            <element signature="e#19437#19561#1" />
+            <element signature="e#19646#19845#0" />
+            <element signature="e#19646#19809#1" />
+            <element signature="e#19919#20789#0" />
+            <element signature="e#20035#20262#0" />
+            <element signature="e#20297#20789#0" />
+            <element signature="e#20297#20313#0" />
+            <element signature="e#20442#20517#0" />
+            <element signature="e#20660#20789#0" />
+            <element signature="e#20835#20921#0" />
+            <element signature="e#20950#22481#0" />
+            <element signature="e#21014#21068#0" />
+            <element signature="e#21223#21286#0" />
+            <element signature="e#21444#21764#0" />
+            <element signature="e#21444#21553#1" />
+            <element signature="e#21830#22223#0" />
+            <element signature="e#22109#22205#0" />
+            <element signature="e#22261#22481#0" />
+            <element signature="e#22328#22481#0" />
+            <element signature="e#22425#22481#0" />
+            <element signature="e#22512#22623#0" />
+            <element signature="e#22561#22565#0" />
+            <element signature="e#22619#22623#0" />
+            <element signature="e#22678#22682#0" />
+            <element signature="e#22736#22740#0" />
+            <element signature="e#22778#23092#0" />
+            <element signature="e#22821#22852#0" />
+            <element signature="e#22903#22934#0" />
+            <element signature="e#23007#23011#0" />
+            <element signature="e#23088#23092#0" />
+            <element signature="e#23125#23808#1" />
+            <element signature="e#24184#24252#0" />
+            <element signature="e#24641#24681#0" />
+            <element signature="e#25153#25204#0" />
+            <element signature="e#25504#25615#0" />
+            <element signature="e#26233#26651#0" />
+            <element signature="e#26233#26369#1" />
+            <element signature="e#26409#26426#0" />
+            <element signature="e#26460#26471#0" />
+            <element signature="e#26505#26593#0" />
+            <element signature="e#26625#26651#0" />
+            <element signature="e#26708#27036#0" />
+            <element signature="e#26799#26942#0" />
+            <element signature="e#26974#27036#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/SystemInstallFiles/python_msi/python_3.7.4/Lib/http/server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-328">
+          <caret line="146" column="64" lean-forward="true" selection-start-line="146" selection-start-column="64" selection-end-line="146" selection-end-column="64" />
+          <folding>
+            <element signature="e#0#1094#1" />
+            <element signature="e#1097#1108#0" />
+            <element signature="e#2993#3120#0" />
+            <element signature="e#3499#3948#0" />
+            <element signature="e#4053#4387#0" />
+            <element signature="e#4161#4387#0" />
+            <element signature="e#4462#4483#0" />
+            <element signature="e#4556#8337#1" />
+            <element signature="e#8464#8526#0" />
+            <element signature="e#8795#8863#0" />
+            <element signature="e#9160#13264#0" />
+            <element signature="e#9160#9494#1" />
+            <element signature="e#9992#11394#0" />
+            <element signature="e#10045#10782#0" />
+            <element signature="e#10261#10318#0" />
+            <element signature="e#10844#10991#0" />
+            <element signature="e#11176#11351#0" />
+            <element signature="e#11445#11583#0" />
+            <element signature="e#11658#11889#0" />
+            <element signature="e#11736#11889#0" />
+            <element signature="e#12031#12162#0" />
+            <element signature="e#12222#12382#0" />
+            <element signature="e#12444#12620#0" />
+            <element signature="e#13183#13244#0" />
+            <element signature="e#13307#13980#0" />
+            <element signature="e#13307#13880#1" />
+            <element signature="e#14024#15416#0" />
+            <element signature="e#14024#14250#1" />
+            <element signature="e#14276#15198#0" />
+            <element signature="e#14392#14577#0" />
+            <element signature="e#14635#14686#0" />
+            <element signature="e#14744#14807#0" />
+            <element signature="e#14906#15055#0" />
+            <element signature="e#15247#15416#0" />
+            <element signature="e#15713#17730#0" />
+            <element signature="e#15713#16338#1" />
+            <element signature="e#16753#16802#0" />
+            <element signature="e#16991#17113#0" />
+            <element signature="e#17129#17623#0" />
+            <element signature="e#17129#17182#0" />
+            <element signature="e#17267#17435#0" />
+            <element signature="e#17789#18182#0" />
+            <element signature="e#17789#17988#1" />
+            <element signature="e#18246#18780#0" />
+            <element signature="e#18342#18780#0" />
+            <element signature="e#18378#18513#0" />
+            <element signature="e#18833#19367#0" />
+            <element signature="e#18940#19142#0" />
+            <element signature="e#19200#19367#0" />
+            <element signature="e#19404#19583#0" />
+            <element signature="e#19514#19583#0" />
+            <element signature="e#19622#19757#0" />
+            <element signature="e#19671#19757#0" />
+            <element signature="e#19814#20073#0" />
+            <element signature="e#19814#19898#1" />
+            <element signature="e#20123#20425#0" />
+            <element signature="e#20123#20384#1" />
+            <element signature="e#20477#21165#0" />
+            <element signature="e#20477#20974#1" />
+            <element signature="e#21048#21163#0" />
+            <element signature="e#21205#21313#0" />
+            <element signature="e#21371#21569#0" />
+            <element signature="e#21615#21887#0" />
+            <element signature="e#21974#22098#0" />
+            <element signature="e#22138#22209#0" />
+            <element signature="e#22215#22251#0" />
+            <element signature="e#22701#32337#0" />
+            <element signature="e#22701#23050#1" />
+            <element signature="e#23167#23301#0" />
+            <element signature="e#23333#23511#0" />
+            <element signature="e#23415#23511#0" />
+            <element signature="e#23544#23636#0" />
+            <element signature="e#23671#27019#0" />
+            <element signature="e#23671#24056#1" />
+            <element signature="e#24164#24946#0" />
+            <element signature="e#24266#24676#0" />
+            <element signature="e#24414#24497#0" />
+            <element signature="e#24745#24879#0" />
+            <element signature="e#24841#24879#0" />
+            <element signature="e#25067#25146#0" />
+            <element signature="e#25173#26963#0" />
+            <element signature="e#25373#26655#0" />
+            <element signature="e#25477#25576#0" />
+            <element signature="e#25672#25723#0" />
+            <element signature="e#25766#26655#0" />
+            <element signature="e#25813#26002#0" />
+            <element signature="e#25813#25852#0" />
+            <element signature="e#26087#26655#0" />
+            <element signature="e#26487#26655#0" />
+            <element signature="e#26992#27019#0" />
+            <element signature="e#27065#29490#0" />
+            <element signature="e#27065#27322#1" />
+            <element signature="e#27408#27537#0" />
+            <element signature="e#27621#27737#0" />
+            <element signature="e#28002#28114#0" />
+            <element signature="e#28168#28254#0" />
+            <element signature="e#28434#29088#0" />
+            <element signature="e#28631#28693#0" />
+            <element signature="e#28751#28854#0" />
+            <element signature="e#28930#29086#0" />
+            <element signature="e#29536#30638#0" />
+            <element signature="e#29536#29783#1" />
+            <element signature="e#30361#30567#0" />
+            <element signature="e#30437#30523#0" />
+            <element signature="e#30692#31242#0" />
+            <element signature="e#30692#31195#1" />
+            <element signature="e#31284#32028#0" />
+            <element signature="e#31284#31733#1" />
+            <element signature="e#32190#32336#0" />
+            <element signature="e#32413#33867#0" />
+            <element signature="e#32413#32879#1" />
+            <element signature="e#33010#33080#0" />
+            <element signature="e#33242#33403#0" />
+            <element signature="e#33431#33645#0" />
+            <element signature="e#33494#33645#0" />
+            <element signature="e#33532#33579#0" />
+            <element signature="e#33908#34221#0" />
+            <element signature="e#34250#34317#0" />
+            <element signature="e#34380#44204#0" />
+            <element signature="e#34380#34559#1" />
+            <element signature="e#34637#34702#0" />
+            <element signature="e#34816#35093#0" />
+            <element signature="e#34816#34904#1" />
+            <element signature="e#34985#35093#0" />
+            <element signature="e#35128#35313#0" />
+            <element signature="e#35345#36214#0" />
+            <element signature="e#35345#35914#1" />
+            <element signature="e#36143#36193#0" />
+            <element signature="e#36306#36393#0" />
+            <element signature="e#36434#36577#0" />
+            <element signature="e#36610#44204#0" />
+            <element signature="e#36777#37057#0" />
+            <element signature="e#36941#37017#0" />
+            <element signature="e#37166#37230#0" />
+            <element signature="e#37587#37716#0" />
+            <element signature="e#37772#37913#0" />
+            <element signature="e#38007#38213#0" />
+            <element signature="e#38062#38213#0" />
+            <element signature="e#38223#38276#0" />
+            <element signature="e#39082#39834#0" />
+            <element signature="e#39176#39834#0" />
+            <element signature="e#39328#39834#0" />
+            <element signature="e#39357#39537#0" />
+            <element signature="e#39676#39834#0" />
+            <element signature="e#40378#40519#0" />
+            <element signature="e#40837#40863#0" />
+            <element signature="e#41000#41115#0" />
+            <element signature="e#41338#42442#0" />
+            <element signature="e#41642#42018#0" />
+            <element signature="e#41845#41901#0" />
+            <element signature="e#42072#42316#0" />
+            <element signature="e#42353#42442#0" />
+            <element signature="e#42470#44204#0" />
+            <element signature="e#42623#42871#0" />
+            <element signature="e#42720#42820#0" />
+            <element signature="e#43733#43791#0" />
+            <element signature="e#44350#44961#0" />
+            <element signature="e#44350#44465#1" />
+            <element signature="e#44615#44961#0" />
+            <element signature="e#44889#44961#0" />
+            <element signature="e#44994#46018#0" />
+            <element signature="e#45253#45343#0" />
+            <element signature="e#45440#45526#0" />
+            <element signature="e#45842#45949#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/SystemInstallFiles/python_msi/python_3.7.4/Lib/wsgiref/simple_server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="74" column="26" lean-forward="true" selection-start-line="74" selection-start-column="26" selection-end-line="74" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#551#1" />
+            <element signature="e#1037#1282#0" />
+            <element signature="e#1102#1282#0" />
+            <element signature="e#1119#1227#0" />
+            <element signature="e#1321#2030#0" />
+            <element signature="e#1443#1561#0" />
+            <element signature="e#1600#1899#0" />
+            <element signature="e#1932#1955#0" />
+            <element signature="e#2000#2030#0" />
+            <element signature="e#3132#3439#0" />
+            <element signature="e#3494#3511#0" />
+            <element signature="e#3543#4165#0" />
+            <element signature="e#3695#3836#0" />
+            <element signature="e#4211#4536#0" />
+            <element signature="e#4642#4810#0" />
+            <element signature="e#4844#5138#0" />
+            <element signature="e#4899#5138#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/SystemInstallFiles/python_msi/pythonVirtual_Env/liujiang_Env/Lib/site-packages/django/core/servers/basehttp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="213" column="56" selection-start-line="213" selection-start-column="38" selection-end-line="213" selection-end-column="56" />
+          <folding>
+            <element signature="e#1624#1777#0" />
+            <element signature="e#4575#5507#0" />
+            <element signature="e#5544#5963#0" />
+            <element signature="e#5995#6266#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
