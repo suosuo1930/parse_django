@@ -31,6 +31,5 @@ class Command(RunserverCommand):
         use_static_handler = options['use_static_handler']  # True
         insecure_serving = options['insecure_serving']      # False
         if use_static_handler and (settings.DEBUG or insecure_serving):  # True
-            django.shiwei.info(( '------------fffff--------', ))
-            return StaticFilesHandler(handler)
+            return StaticFilesHandler(handler)  # 关键代码
         return handler

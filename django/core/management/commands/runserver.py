@@ -152,7 +152,15 @@ class Command(BaseCommand):
         })
 
         try:
-            handler = self.get_handler(*args, **options) #  返回了 wsgi.py 中的 application 对象
+            # 关键代码
+            handler = self.get_handler(*args, **options) #  返回了  静态文件 句柄  对象
+            # handler == <django.contrib.staticfiles.handlers.StaticFilesHandler object at 0x000001D13A0C7308>
+            """
+            作用： 
+                1. 加载 wsgi.py 中 的 application 
+                2. 解析 静态 ulr， settings.STATIC_URL
+                3. 加载  中间件  ， settings.MIDDLEWARE
+            """
             # 关键代码
             run(self.addr, int(self.port), handler,      #  开启 wsgi Web  服务
                 ipv6=self.use_ipv6, threading=threading, server_cls=self.server_cls)

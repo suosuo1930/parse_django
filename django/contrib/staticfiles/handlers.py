@@ -20,8 +20,19 @@ class StaticFilesHandler(WSGIHandler):
     handles_files = True
 
     def __init__(self, application):
+        print("3333333333333333333333333")
         self.application = application
-        self.base_url = urlparse(self.get_base_url())
+        # self.application =  <django.core.handlers.wsgi.WSGIHandler object at 0x000001AFF81CB8C8>
+
+        self.base_url = urlparse(self.get_base_url())  # 静态文件 url 解析 结果
+        # self.base_url ==  ParseResult(scheme='', netloc='', path='/static/', params='', query='', fragment='')
+
+    # 例如
+        # base_url = urlparse('http://www.cwi.nl:80/%7Eguido/Python.html')
+        # 则 base_url ==  ParseResult(scheme='http', netloc='www.cwi.nl:80', path='/%7Eguido/Python.html',
+        #             params='', query='', fragment='')
+
+
         super().__init__()
 
     def load_middleware(self):
@@ -63,6 +74,13 @@ class StaticFilesHandler(WSGIHandler):
         return super().get_response(request)
 
     def __call__(self, environ, start_response):
-        if not self._should_handle(get_path_info(environ)):
+        # print("environ==", environ, "start_response==", start_response)
+        # for k,v in enumerate(environ.items()):
+        #     print("{}---{}=={}".format(k, str(v[0]).lower(), v[1]))
+
+
+        if not self._should_handle(get_path_info(environ)):  # 执行
+            # get_path_info(environ) = "/"
+            print("44444444444444444444444444")
             return self.application(environ, start_response)
         return super().__call__(environ, start_response)

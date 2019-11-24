@@ -138,6 +138,7 @@ class WSGIHandler(base.BaseHandler):
         self.load_middleware()  # 关键代码
 
     def __call__(self, environ, start_response):
+        print("222222222222222222222222")
         set_script_prefix(get_script_name(environ))
         signals.request_started.send(sender=self.__class__, environ=environ)
         request = self.request_class(environ)

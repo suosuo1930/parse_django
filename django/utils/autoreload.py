@@ -301,7 +301,7 @@ class BaseReloader:
 
         # Prevent a race condition where URL modules aren't loaded when the
         # reloader starts by accessing the urlconf_module property.
-        get_resolver().urlconf_module
+        get_resolver().urlconf_module  # 关键代码
         # get_resolver() =  URLResolver(RegexPattern(r'^/'), urlconf)
         # urlconf = settings.ROOT_URLCONF
 

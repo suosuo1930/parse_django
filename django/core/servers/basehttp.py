@@ -22,7 +22,7 @@ __all__ = ('WSGIServer', 'WSGIRequestHandler')
 
 logger = logging.getLogger('django.server')
 
-
+# 获取  wsgi.py 中的 application 对象
 def get_internal_wsgi_application():
     """
     Load and return the WSGI application as configured by the user in
@@ -55,7 +55,7 @@ def is_broken_pipe_error():
     return issubclass(exc_type, socket.error) and exc_value.args[0] == 32
 
 
-class WSGIServer(simple_server.WSGIServer):
+class WSGIServer(simple_server.WSGIServer):     #  关键 类
     """BaseHTTPServer that implements the Python WSGI protocol"""
     # 该数据库将实现Python WSGI协议
     request_queue_size = 10
@@ -116,7 +116,7 @@ class ServerHandler(simple_server.ServerHandler):
             super().handle_error()
 
 
-class WSGIRequestHandler(simple_server.WSGIRequestHandler):
+class WSGIRequestHandler(simple_server.WSGIRequestHandler):    #  关键 类
     protocol_version = 'HTTP/1.1'
 
     def address_string(self):
@@ -193,24 +193,37 @@ class WSGIRequestHandler(simple_server.WSGIRequestHandler):
         handler.request_handler = self      # backpointer for logging & connection closing
         handler.run(self.server.get_app())
 
+"""
+StaticFilesHandler-----》 <django.contrib.staticfiles.handlers.StaticFilesHandler>
+继承
+WSGIHandler  ------ 》 <django.core.handlers.wsgi.WSGIHandler>
+继承
+BaseHandler -------》 <django.core.handlers.base.BaseHandler> 
+(终极类)
+"""
+
 # run(self.addr, int(self.port), handler,      #  开启 wsgi Web  服务
 #                ipv6=self.use_ipv6, threading=threading, server_cls=self.server_cls)
 def run(addr, port, wsgi_handler, ipv6=False, threading=False, server_cls=WSGIServer):
     """  由 命令 实例 的  inner_run() 方法 调用
     :param addr: '0.0.0.0',
     :param port:  9999
-        threading: True
-            ipv6 :  False
-    :param wsgi_handler:  wsgi  application 对象 <django.contrib.staticfiles.handlers.StaticFilesHandler object>
+    :param threading: True
+    :param ipv6 :  False
+    :param wsgi_handler:  <django.contrib.staticfiles.handlers.StaticFilesHandler object>
     :param server_cls:  <class 'django.core.servers.basehttp.WSGIServer'>
     """
+    print("11111111111111111111111")
+    print("wsgi_handler+++++++++", wsgi_handler )
     server_address = (addr, port)
     if threading: # True
         # 关键代码
         httpd_cls = type('WSGIServer', (socketserver.ThreadingMixIn, server_cls), {})
     else:
         httpd_cls = server_cls
-    # 关键代码
+
+    # 关键代码 ,
+    # 类似 等于 wsgiref.py 中 make_server(server_address, wsgi_handler)
     httpd = httpd_cls(server_address, WSGIRequestHandler, ipv6=ipv6)
     # httpd : <django.core.servers.basehttp.WSGIServer object>
     if threading:
@@ -226,5 +239,10 @@ def run(addr, port, wsgi_handler, ipv6=False, threading=False, server_cls=WSGISe
         这将使自动加载更快，并将防止需要杀死服务器手动如果一个线程不正确地终止。
         """
         httpd.daemon_threads = True
-    httpd.set_app(wsgi_handler) #  self.application = application
+        
+    # 关键代码, 第三方包 wsgiref 中的 方法. 设定 要 服务 的 APP
+    httpd.set_app(wsgi_handler)
+    print("set  after +++++++++++++++++")
+    #  self.application = <django.contrib.staticfiles.handlers.StaticFilesHandler object>
+
     httpd.serve_forever()  # socket  开启 服务 监听
