@@ -168,7 +168,7 @@ class WSGIRequestHandler(simple_server.WSGIRequestHandler):    #  关键 类
         self.close_connection = True
         self.handle_one_request()
         while not self.close_connection:
-            self.handle_one_request()
+            self.handle_one_request()  # 关键代码
         try:
             self.connection.shutdown(socket.SHUT_WR)
         except (socket.error, AttributeError):
@@ -187,19 +187,30 @@ class WSGIRequestHandler(simple_server.WSGIRequestHandler):    #  关键 类
         if not self.parse_request():  # An error code has been sent, just exit
             return
 
+        # 关键代码
         handler = ServerHandler(
             self.rfile, self.wfile, self.get_stderr(), self.get_environ()
         )
+        # 关键代码
         handler.request_handler = self      # backpointer for logging & connection closing
+        # 关键代码
         handler.run(self.server.get_app())
+
 
 """
 StaticFilesHandler-----》 <django.contrib.staticfiles.handlers.StaticFilesHandler>
 继承
-WSGIHandler  ------ 》 <django.core.handlers.wsgi.WSGIHandler>
+WSGIHandler  ------ 》   <django.core.handlers.wsgi.WSGIHandler>
 继承
-BaseHandler -------》 <django.core.handlers.base.BaseHandler> 
+BaseHandler -------》    <django.core.handlers.base.BaseHandler> 
 (终极类)
+"""
+
+
+"""
+WSGIServer  -----》  django.core.servers.basehttp.WSGIServer
+继承
+WSGIServer  ------》第三方 包  wsgiref.simple_server.WSGIServer
 """
 
 # run(self.addr, int(self.port), handler,      #  开启 wsgi Web  服务
@@ -214,7 +225,7 @@ def run(addr, port, wsgi_handler, ipv6=False, threading=False, server_cls=WSGISe
     :param server_cls:  <class 'django.core.servers.basehttp.WSGIServer'>
     """
     print("11111111111111111111111")
-    print("wsgi_handler+++++++++", wsgi_handler )
+    print("wsgi_handler+++++++++", wsgi_handler)
     server_address = (addr, port)
     if threading: # True
         # 关键代码

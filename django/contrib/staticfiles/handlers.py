@@ -7,7 +7,8 @@ from django.contrib.staticfiles.views import serve
 from django.core.handlers.exception import response_for_exception
 from django.core.handlers.wsgi import WSGIHandler, get_path_info
 
-
+# 关键 类
+# Django  专门 用来处理 静态文件的 类
 class StaticFilesHandler(WSGIHandler):
     """
         拦截对静态文件目录的调用的WSGI中间件
@@ -73,6 +74,7 @@ class StaticFilesHandler(WSGIHandler):
                 return response_for_exception(request, e)
         return super().get_response(request)
 
+# 关键代码  关键代码   关键代码   关键代码
     def __call__(self, environ, start_response):
         # print("environ==", environ, "start_response==", start_response)
         # for k,v in enumerate(environ.items()):
@@ -81,6 +83,6 @@ class StaticFilesHandler(WSGIHandler):
 
         if not self._should_handle(get_path_info(environ)):  # 执行
             # get_path_info(environ) = "/"
-            print("44444444444444444444444444")
+            # 关键代码
             return self.application(environ, start_response)
         return super().__call__(environ, start_response)

@@ -592,9 +592,9 @@ def get_reloader():
     # 返回最适合此环境的重新加载程序
     """Return the most suitable reloader for this environment."""
     try:
-        WatchmanReloader.check_availability()
+        WatchmanReloader.check_availability()  # 报异常
     except WatchmanUnavailable:
-        return StatReloader()
+        return StatReloader()       # 执行
     return WatchmanReloader()
 
 
